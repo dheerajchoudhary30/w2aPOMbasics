@@ -1,0 +1,12 @@
+20/01/2019 20:30:37 devpinoyLogger Config properties loaded!
+20/01/2019 20:30:37 devpinoyLogger OR properties loaded!
+20/01/2019 20:30:43 devpinoyLogger Chrome Opened!
+20/01/2019 20:30:55 devpinoyLogger URL Loaded http://www.zoho.com
+20/01/2019 20:30:58 devpinoyLogger Clicking on a element : loginLink_CSS
+20/01/2019 20:30:59 devpinoyLogger Typing on a element : username_CSSwith value as: dheeraj.choudhary30@gmail.com
+20/01/2019 20:30:59 devpinoyLogger Typing on a element : password_CSSwith value as: Zoho101*
+20/01/2019 20:30:59 devpinoyLogger Clicking on a element : submit_CSS
+20/01/2019 20:31:05 devpinoyLogger Clicking on a element : allAppMenu_CSS
+20/01/2019 20:31:12 devpinoyLogger Clicking on a element : accountsLink_XPATH
+20/01/2019 20:31:14 devpinoyLogger Clicking on a element : createAccountsLink_XPATH
+20/01/2019 20:31:14 devpinoyLogger Typing on a element : accountName_XPATHwith value as: Dheeraj
