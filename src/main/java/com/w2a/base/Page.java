@@ -95,6 +95,7 @@ public class Page {
             options.addArguments("--disable-extensions");
             options.addArguments("--disable-infobars");
 
+            //this is amazings
             if (config.getProperty("browser").equals("chrome")) {
                 System.setProperty("webdriver.chrome.driver",
                         System.getProperty("user.dir") + "\\src\\main\\resources\\com\\w2a\\executables\\chromedriver.exe");
